@@ -2,7 +2,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/bvfk/Discord-Status-Changer">
-    <img src="https://cdn.discordapp.com/attachments/1226401326624280648/1230300174295896155/131719612.jpeg?ex=6632d153&is=66205c53&hm=86a5460a09462a9013693c802f84f1922a4e765956a960f8e6fb01f50b51fe77&" alt="Logo" width="420" height="420">
+    <img src="https://cdn.discordapp.com/attachments/1226401326624280648/1230297980075249686/download.png?ex=6632cf48&is=66205a48&hm=37229ff6ce9f07961fd7f90d73ed1f3721aae988a927d6c839591b3ecc63b76a&" alt="Logo" width="420" height="420">
   </a>
   
   <h2 align="center">Discord - Status Cycler</h3>
